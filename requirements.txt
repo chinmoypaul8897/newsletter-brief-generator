@@ -1,0 +1,5 @@
+# Verified working against Python 3.12.2 with:
+#   requests 2.32.3 · beautifulsoup4 4.14.2 · Jinja2 3.1.6
+requests
+beautifulsoup4
+Jinja2
