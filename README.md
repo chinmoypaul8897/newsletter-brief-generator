@@ -188,7 +188,11 @@ Python 3.12 · [requests](https://requests.readthedocs.io/) · [BeautifulSoup 4]
 
 ## Author
 
-**Chinmoy Paul** — [github.com/chinmoypaul8897](https://github.com/chinmoypaul8897)
+**Chinmoy Paul**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chinmoy--paul-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmoy-paul/)
+[![GitHub](https://img.shields.io/badge/GitHub-chinmoypaul8897-181717?logo=github&logoColor=white)](https://github.com/chinmoypaul8897)
+[![Email](https://img.shields.io/badge/Email-hello.chinmoypaul%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:hello.chinmoypaul@gmail.com)
 
 ## License
 
