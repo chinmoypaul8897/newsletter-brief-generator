@@ -193,14 +193,11 @@ Python 3.12 · [requests](https://requests.readthedocs.io/) · [BeautifulSoup 4]
 
 ### Chinmoy Paul
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chinmoypaul.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmoy-paul/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmoypaul8897)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.chinmoypaul@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chinmoypaul.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmoy-paul/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmoypaul8897) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.chinmoypaul@gmail.com)
 
 <sub>
 
-[chinmoypaul.vercel.app](https://chinmoypaul.vercel.app/) &nbsp;·&nbsp; [hello.chinmoypaul@gmail.com](mailto:hello.chinmoypaul@gmail.com)
+[chinmoypaul.vercel.app](https://chinmoypaul.vercel.app/) &nbsp;&middot;&nbsp; [hello.chinmoypaul@gmail.com](mailto:hello.chinmoypaul@gmail.com)
 
 </sub>
 
