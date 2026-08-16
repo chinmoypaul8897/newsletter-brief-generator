@@ -6,17 +6,17 @@ import json # Used for clean printing
 # --- 1. Define the List of URLs (Editor's Input) ---
 # Keep your URLs here
 
-ARTICLE_URLS: List[str] = [
-    "https://www.nytimes.com/2025/10/31/technology/ai-spending-accelerating.html#",
-    "https://www.nytimes.com/2025/05/20/technology/personaltech/google-ai-mode-search.html",
-    "https://www.nytimes.com/2025/10/22/technology/meta-plans-to-cut-600-jobs-at-ai-superintelligence-labs.html",
-]
-
 # ARTICLE_URLS: List[str] = [
-#     "https://www.nytimes.com/2025/10/17/business/bull-market-trump-biden.html",
-#     "https://www.nytimes.com/2025/10/31/business/interest-rates-money-markets-stocks-bonds.html",
-#     "https://www.nytimes.com/2025/10/24/business/interest-rates-cds-savings-accounts.html",
+#     "https://www.nytimes.com/2025/10/31/technology/ai-spending-accelerating.html#",
+#     "https://www.nytimes.com/2025/05/20/technology/personaltech/google-ai-mode-search.html",
+#     "https://www.nytimes.com/2025/10/22/technology/meta-plans-to-cut-600-jobs-at-ai-superintelligence-labs.html",
 # ]
+
+ARTICLE_URLS: List[str] = [
+    "https://www.nytimes.com/2025/10/17/business/bull-market-trump-biden.html",
+    "https://www.nytimes.com/2025/10/31/business/interest-rates-money-markets-stocks-bonds.html",
+    "https://www.nytimes.com/2025/10/24/business/interest-rates-cds-savings-accounts.html",
+]
 
 # --- 2. Core Functions (Adding extract_section) ---
 
